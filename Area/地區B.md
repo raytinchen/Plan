@@ -1,5 +1,5 @@
 # 地區B
-[返回主頁](https://github.com/raytinchen/Plan)
+[返回主頁](../Readme.md)
 * 目錄
 
 
